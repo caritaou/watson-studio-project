@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "custom env",
+    "description": "",
+    "asset_type": "job",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2021-10-22T16:52:53Z",
+    "created": 1634921573282,
+    "asset_id": "job.customenv",
+    "asset_attributes": [
+      "job"
+    ]
+  },
+  "entity": {
+    "job": {
+      "asset_ref_type": "machine-learning-stream",
+      "configuration": {
+        "env_id": "environment.custommodeler39",
+        "env_type": "modeler",
+        "env_variables": []
+      },
+      "last_run_initiator": "None",
+      "last_run_time": "",
+      "last_run_status": "None",
+      "last_run_status_timestamp": 0,
+      "future_scheduled_runs": [],
+      "enable_notifications": true,
+      "project_name": "cou-git",
+      "asset_ref": "machine-learning-stream.DrugStudyExample"
+    }
+  },
+  "attachments": []
+}

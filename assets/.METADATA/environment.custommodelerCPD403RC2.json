@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "custom modeler CPD 4.0.3 RC2",
+    "description": "",
+    "origin_country": "US",
+    "tags": [
+      "dsx"
+    ],
+    "asset_type": "environment",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2021-11-02T16:30:09Z",
+    "created": 1635870609751,
+    "asset_id": "environment.custommodelerCPD403RC2",
+    "asset_attributes": [
+      "environment"
+    ]
+  },
+  "entity": {
+    "environment": {
+      "sub_type": "modeler",
+      "display_name": "custom modeler CPD 4.0.3 RC2",
+      "hardware_specification": {
+        "type": "referenced",
+        "guid": "hardware_specification.custommodelerCPD403RC2"
+      },
+      "runtime_definition": "spss-modeler"
+    }
+  },
+  "attachments": []
+}

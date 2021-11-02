@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "name": "custom modeler CPD 4.0.3 RC2",
+    "description": "",
+    "origin_country": "US",
+    "tags": [
+      "dsx"
+    ],
+    "asset_type": "hardware_specification",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2021-11-02T16:30:08Z",
+    "created": 1635870608887,
+    "asset_id": "hardware_specification.custommodelerCPD403RC2",
+    "asset_attributes": [
+      "hardware_specification"
+    ]
+  },
+  "entity": {
+    "hardware_specification": {
+      "nodes": {
+        "cpu": {
+          "units": "3",
+          "model": ""
+        },
+        "mem": {
+          "size": "9Gi"
+        }
+      }
+    }
+  },
+  "attachments": []
+}
