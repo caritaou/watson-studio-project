@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "DRUG1n migration test.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:32:43Z",
+    "created": 1704843163820,
+    "asset_id": "data_asset.DRUG1nmigrationtestcsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "DRUG1n migration test.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/DRUG1n migration test.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:32:43Z",
+      "id": "13466ff2-adb2-456d-a3be-ca97c3fbc678",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

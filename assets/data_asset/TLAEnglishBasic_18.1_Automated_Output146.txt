@@ -1,0 +1,37 @@
+connection1,Unknown,no,Contextual
+connection10,Unknown,no,Contextual
+connection11,Unknown,no,Contextual
+connection12,Unknown,no,Contextual
+connection13,Unknown,no,Contextual
+connection14,Unknown,no,Contextual
+connection15,Unknown,no,Contextual
+connection16,Unknown,no,Contextual
+connection17,Unknown,no,Contextual
+connection18,Unknown,no,Contextual
+connection19,Unknown,no,Contextual
+connection2,Unknown,no,Contextual
+connection20,Unknown,no,Contextual
+connection21,Unknown,no,Contextual
+connection22,Unknown,no,Contextual
+connection23,Unknown,no,Contextual
+connection24,Unknown,no,Contextual
+connection3,Unknown,no,Contextual
+connection4,Unknown,no,Contextual
+connection5,Unknown,no,Contextual
+connection6,Unknown,no,Contextual
+connection7,Unknown,no,Contextual
+connection8,Unknown,no,Contextual
+connection9,Unknown,no,Contextual
+dog,Unknown,no,Contextual
+dog,Unknown,no,Contextual
+dog,Unknown,no,Contextual
+dog,Unknown,Null,Null
+dog,Unknown,Null,Null
+dog,Unknown,Null,Null
+dog,Unknown,Null,Null
+internet,Unknown,no,Contextual
+internet,Unknown,no,Contextual
+january 28,Date,Null,Null
+january 28,Date,Null,Null
+wifi,Unknown,no,Contextual
+wifi,Unknown,no,Contextual

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "airports-org.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:39:07Z",
+    "created": 1704843547873,
+    "asset_id": "data_asset.airportsorgcsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "airports-org.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/airports-org.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:39:07Z",
+      "id": "9efa3ccd-3dfb-439c-a95d-3d95fe7b95b5",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

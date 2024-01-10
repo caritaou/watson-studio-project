@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "users.parquet",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:25:51Z",
+    "created": 1704842751599,
+    "asset_id": "data_asset.usersparquet",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/octet-stream"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "users.parquet",
+      "mime": "application/octet-stream",
+      "object_key": "data_asset/users.parquet",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:25:51Z",
+      "id": "a59d36f7-e193-4e0d-b480-3e6e6f5d49d9",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

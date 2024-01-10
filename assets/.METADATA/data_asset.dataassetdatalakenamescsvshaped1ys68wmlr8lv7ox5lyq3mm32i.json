@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "data_asset:datalake_names_csv_shaped_1ys68wmlr8lv7ox5lyq3mm32i",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:34:32Z",
+    "created": 1704843272389,
+    "asset_id": "data_asset.dataassetdatalakenamescsvshaped1ys68wmlr8lv7ox5lyq3mm32i",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/octet-stream"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "data_asset:datalake_names_csv_shaped_1ys68wmlr8lv7ox5lyq3mm32i",
+      "mime": "application/octet-stream",
+      "object_key": "data_asset/data_asset:datalake_names_csv_shaped_1ys68wmlr8lv7ox5lyq3mm32i",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:34:32Z",
+      "id": "3f4ab8b6-fa7a-4cf4-9c82-6e04ad65307f",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

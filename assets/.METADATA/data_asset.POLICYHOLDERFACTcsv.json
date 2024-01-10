@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "POLICYHOLDER_FACT.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:30:14Z",
+    "created": 1704843014248,
+    "asset_id": "data_asset.POLICYHOLDERFACTcsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "POLICYHOLDER_FACT.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/POLICYHOLDER_FACT.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:30:14Z",
+      "id": "667f7dcf-a106-4a7f-a58e-5dc1cfe468fa",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

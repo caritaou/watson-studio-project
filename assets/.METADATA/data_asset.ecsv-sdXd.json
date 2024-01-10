@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "顧客属性_実績_e.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:25:54Z",
+    "created": 1704842754307,
+    "asset_id": "data_asset.ecsv-sdXd",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "顧客属性_実績_e.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/顧客属性_実績_e.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:25:54Z",
+      "id": "6ac00eb4-cc47-4d6a-a7b9-1ec29bdee7f5",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

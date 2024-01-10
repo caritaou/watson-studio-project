@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "mtcars2.xls",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:30:29Z",
+    "created": 1704843029355,
+    "asset_id": "data_asset.mtcars2xls",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/x-msexcel"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "mtcars2.xls",
+      "mime": "application/x-msexcel",
+      "object_key": "data_asset/mtcars2.xls",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:30:29Z",
+      "id": "faa89e18-cd66-41a5-8c30-f79a72a352cc",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

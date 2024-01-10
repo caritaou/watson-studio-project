@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "POLICYHOLDER_EXTENDED_ATTRIBUTES.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:30:19Z",
+    "created": 1704843019762,
+    "asset_id": "data_asset.POLICYHOLDEREXTENDEDATTRIBUTEScsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "POLICYHOLDER_EXTENDED_ATTRIBUTES.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/POLICYHOLDER_EXTENDED_ATTRIBUTES.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:30:19Z",
+      "id": "2a59af3d-59a4-486b-8558-3f41d440a505",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

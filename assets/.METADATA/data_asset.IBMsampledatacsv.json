@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "IBM_sample_data.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:30:56Z",
+    "created": 1704843056419,
+    "asset_id": "data_asset.IBMsampledatacsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "IBM_sample_data.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/IBM_sample_data.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:30:56Z",
+      "id": "d4e9518d-3ba6-48bc-9bb5-5d25ebf25a0a",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

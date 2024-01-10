@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "pm_customer_train1.sav",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:29:31Z",
+    "created": 1704842971366,
+    "asset_id": "data_asset.pmcustomertrain1sav",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/x-vnd.spss-statistics-data"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "pm_customer_train1.sav",
+      "mime": "application/x-vnd.spss-statistics-data",
+      "object_key": "data_asset/pm_customer_train1.sav",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:29:31Z",
+      "id": "2c40617b-5cc8-42ad-8396-cb90d6f88f68",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

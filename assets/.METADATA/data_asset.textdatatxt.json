@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "textdata.txt",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2024-01-09T23:26:47Z",
+    "created": 1704842807998,
+    "asset_id": "data_asset.textdatatxt",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/plain"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "textdata.txt",
+      "mime": "text/plain",
+      "object_key": "data_asset/textdata.txt",
+      "object_key_is_read_only": true,
+      "created_at": "2024-01-09T23:26:47Z",
+      "id": "0c288da9-0f07-4f22-a5dd-4996334cafa2",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
